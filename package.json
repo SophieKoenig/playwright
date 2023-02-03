@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophieKoenig/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SophieKoenig/playwright/issues"
+  },
+  "homepage": "https://github.com/SophieKoenig/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
